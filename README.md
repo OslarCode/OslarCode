@@ -49,7 +49,6 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 
 - **Email:** oslar1980@gmail.com
 - **LinkedIn:** [linkedin.com/in/oslar_code](https://www.linkedin.com/in/oslar-lara-036438328/)
-- **Twitter:** [twitter.com/OArtificacial](https://x.com/OArtificacialTk)
 ---
 
 ¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología.
