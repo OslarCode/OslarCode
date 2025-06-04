@@ -31,7 +31,6 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 - **Desarrollo Frontend:** Especializado en la creación de interfaces web con **HTML5**, **CSS3**, **JavaScript** y **TypeScript**.
 - **React y Next.js:** Desarrollo de aplicaciones web dinámicas y SPA con **React** y **Next.js**.
 - **UI/UX Design:** Diseño de interfaces responsivas y centradas en el usuario con **Tailwind CSS** y **Bootstrap**.
-- **Animaciones Web:** Implementación de animaciones y transiciones suaves utilizando **CSS3** y **JavaScript**.
 - **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
 
 ## 💡 **En qué Estoy Trabajando**
