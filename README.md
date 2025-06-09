@@ -68,4 +68,4 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 - **LinkedIn:** [linkedin.com/in/oslar_code](https://www.linkedin.com/in/oslar-lara-036438328/)
 ---
 
-¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología.
+🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
