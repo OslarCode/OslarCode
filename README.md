@@ -1,4 +1,4 @@
-# 🧙‍♂️ **Oscar** the Web Mage – Nivel 42
+# 🧙‍♂️ **Oscar** Mago de la Web – Nivel 42
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oscar_dev?style=social)](https://twitter.com/oscar_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/oscar-dev)
