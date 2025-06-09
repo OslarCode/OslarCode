@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/oscar-dev)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/oscardev)
 
-🧝‍♂️ Oscar, el Forjador de Interfaces, desarrollador Web Freelance con más de 5 años de sabiduría acumulada en las tierras digitales. Domino los antiguos lenguajes del frontend y las artes secretas del diseño. Maestro en la creación de interfaces mágicas, responsivas y poderosas, mi misión es invocar soluciones digitales que no solo cumplan los contratos del gremio, sino que también sorprendan al usuario con una experiencia legendaria digna de los héroes.
+⚔️ Oscar, el Forjador de Interfaces, desarrollador Web Freelance con más de 5 años de sabiduría acumulada en las tierras digitales. Domino los antiguos lenguajes del frontend y las artes secretas del diseño. Maestro en la creación de interfaces mágicas, responsivas y poderosas, mi misión es invocar soluciones digitales que no solo cumplan los contratos del gremio, sino que también sorprendan al usuario con una experiencia legendaria digna de los héroes.
 
 ```diff
 + Clase: Desarrollador Web Freelance
