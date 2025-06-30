@@ -7,9 +7,9 @@
 ⚔️ Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de 5 años de sabiduría acumulada en las tierras digitales. Domino los antiguos lenguajes del frontend y las artes ocultas del backend, forjando puentes entre reinos de código y bases de datos. Maestro en la creación de interfaces mágicas y arquitecturas robustas, mi misión es invocar soluciones digitales completas que no solo cumplan los contratos del gremio, sino que también sorprendan al usuario con una experiencia legendaria digna de los héroes.
 
 ```diff
-+ Clase: Desarrollador Web Freelance
++ Clase: Desarrollador Full Satck
 + Raza: Humano Modernista
-+ Atributo Principal: Frontend 🧩
++ Atributo Principal: Frontend & Backend 
 + Experiencia: +5 años / 8500+ XP
 ```
 
