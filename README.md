@@ -88,6 +88,14 @@
 - Profundizando en **optimización SEO** para aplicaciones SPA.
 - Subir al nivel 50  💪
 
+
+## 🐍 La Serpiente Devora Commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## ☕ **Invítame un Café**
 
 ¿Te gusta lo que hago? ¡Invítame una poción energética!  . ¡Cada aporte me ayuda a seguir creando contenido y proyectos geniales!
@@ -102,6 +110,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
