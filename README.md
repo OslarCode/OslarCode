@@ -28,8 +28,6 @@
 
 ## 📈 Estadísticas del Héroe
 
-## 📊 Estadísticas del Guerrero
-
 <div align="center">
   
 ### ⚔️ Stats de Combate
@@ -82,5 +80,6 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
