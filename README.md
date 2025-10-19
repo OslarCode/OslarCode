@@ -61,20 +61,14 @@
 
 ## 🐍 El Reino de las Contribuciones
 
-<div align="center">
-
-### Contribuciones
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
 </picture>
 
-</div>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=redical&hide_border=true&bg_color=0D1117)
 
-</div>
+
 
 ## 🧙‍♀️  **Habilidades**
 
@@ -114,6 +108,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
