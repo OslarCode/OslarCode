@@ -44,6 +44,9 @@
 
 </div>
 
+### 📈 Contribuciones
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=redical&hide_border=true&bg_color=0D1117)
+
 ## 🧙‍♀️  **Habilidades**
 
 | Habilidad               | Nivel       | Experiencia |
@@ -80,6 +83,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
