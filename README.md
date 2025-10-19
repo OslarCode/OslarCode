@@ -98,9 +98,11 @@
 
 - **Email:** oslar1980@gmail.com
 - **LinkedIn:** [linkedin.com/in/oslar_code](https://www.linkedin.com/in/oslar-lara-036438328/)
+- **Codepen:** [Codepen](https://codepen.io/oslar)
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
