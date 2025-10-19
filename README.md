@@ -80,11 +80,11 @@
 | ⚛️ **React** | `S` | ████████░░ | 3600 XP | Dashboard Analytics | ✅ Dominado |
 | ▲ **Next.js** | `A` | ███████░░░ | 3200 XP | Blog SEO-Optimizado | 🔄 Mejorando |
 | 🎨 **Tailwind CSS** | `S` | █████████░ | 3400 XP | Landing Page Premium | ✅ Dominado |
-| 🅱️ **Bootstrap** | `A` | ███████░░░ | 2800 XP | Admin Template | ⏸️ En Pausa |
+| 🅱️ **Bootstrap** | `A` | ███████░░░ | 2800 XP | Admin Template | ✅ Dominado |
 | 🔀 **Git/GitHub** | `A` | ████████░░ | 3000 XP | Workflow de Equipos | ✅ Dominado |
-| 🚀 **SEO/Performance** | `B` | ██████░░░░ | 2500 XP | Optimización Lighthouse | 📚 Estudiando |
+| 🚀 **SEO/Performance** | `B` | ██████░░░░ | 2500 XP | Optimización Lighthouse | 🔄 Mejorando |
 | 🌐 **Web3/Blockchain** | `C` | ████░░░░░░ | 1200 XP | dApp Experimental | 🌱 Aprendiendo |
-| 🟢 **Node.js** | `C` | ███░░░░░░░ | 800 XP | API REST Básica | 🌱 Aprendiendo |
+| 🟢 **Node.js** | `C` | ███░░░░░░░ | 800 XP | API REST Básica | 🔄 Mejorando |
 | 🍃 **MongoDB** | `D` | ██░░░░░░░░ | 400 XP | CRUD de Prueba | 🥚 Iniciando |
 
 ### 📜 Leyenda de Rangos
@@ -116,6 +116,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
