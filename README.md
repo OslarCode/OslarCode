@@ -60,13 +60,12 @@
 ### 🏆 Logros Desbloqueados
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OslarCode&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
----
 
 ## 🐍 El Reino de las Contribuciones
 
 <div align="center">
 
-### La Serpiente Legendaria Devora el Código
+### Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
@@ -75,7 +74,6 @@
 
 </div>
 
-### 📈 Contribuciones
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=redical&hide_border=true&bg_color=0D1117)
 
 </div>
@@ -118,6 +116,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
