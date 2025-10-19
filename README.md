@@ -60,12 +60,26 @@
 ### 🏆 Logros Desbloqueados
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OslarCode&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-## 🐍 Mis Commits
+---
+
+## 🐍 El Reino de las Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg" alt="Snake animation" />
+
+### La Serpiente Legendaria Devora el Código
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
+</picture>
+
+### Mapa de Batalla del Reino
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&custom_title=⚔️%20Batallas%20Libradas%20en%20el%20Reino%20Digital)](https://github.com/OslarCode)
+
 </div>
 
+---
 </div>
 
 ### 📈 Contribuciones
@@ -109,6 +123,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
