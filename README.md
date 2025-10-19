@@ -49,6 +49,28 @@
 - **UI/UX Design:** Diseño de interfaces responsivas y centradas en el usuario con **Tailwind CSS** y **Bootstrap**.
 - **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
 
+---
+
+## 📊 Estadísticas del Guerrero
+
+<div align="center">
+  
+### ⚔️ Stats de Combate
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OslarCode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+
+### 🔥 Racha de Batalla
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OslarCode&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+
+### 🗡️ Armas Dominadas (Lenguajes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OslarCode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+
+### 🏆 Logros Desbloqueados
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OslarCode&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
 ## 💡 **Misiones actuales**
 
 - Explorando **Web3** y **Apps**.
@@ -69,3 +91,4 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
