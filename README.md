@@ -42,8 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Coding](https://img.shields.io/badge/STATUS-CODING%20NOW-00FF00?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=lime&link=https://github.com/OslarCode)
-
 </div>
 
 ## 📈 Estadísticas del Héroe
@@ -103,6 +101,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
