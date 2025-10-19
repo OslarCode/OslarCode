@@ -28,29 +28,6 @@
 
 ## 📈 Estadísticas del Héroe
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OslarCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OslarCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-## 🧙‍♀️  **Habilidades**
-
-| Habilidad               | Nivel       | Experiencia |
-|------------------------|-------------|-------------|
-| HTML/CSS               | ⭐⭐⭐⭐⭐      | 4200 XP     |
-| JavaScript/TypeScript  | ⭐⭐⭐⭐✰      | 3800 XP     |
-| React/Next.js          | ⭐⭐⭐⭐       | 3600 XP     |
-| UI/UX                  | ⭐⭐⭐⭐       | 3400 XP     |
-| Git & GitHub           | ⭐⭐⭐⭐       | 3000 XP     |
-| SEO / Performance      | ⭐⭐⭐        | 2500 XP     |
-
-- **Desarrollo Frontend:** Especializado en la creación de interfaces web con **HTML5**, **CSS3**, **JavaScript** y **TypeScript**.
-- **React y Next.js:** Desarrollo de aplicaciones web dinámicas y SPA con **React** y **Next.js**.
-- **UI/UX Design:** Diseño de interfaces responsivas y centradas en el usuario con **Tailwind CSS** y **Bootstrap**.
-- **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
-
----
-
 ## 📊 Estadísticas del Guerrero
 
 <div align="center">
@@ -69,7 +46,21 @@
 
 </div>
 
----
+## 🧙‍♀️  **Habilidades**
+
+| Habilidad               | Nivel       | Experiencia |
+|------------------------|-------------|-------------|
+| HTML/CSS               | ⭐⭐⭐⭐⭐      | 4200 XP     |
+| JavaScript/TypeScript  | ⭐⭐⭐⭐✰      | 3800 XP     |
+| React/Next.js          | ⭐⭐⭐⭐       | 3600 XP     |
+| UI/UX                  | ⭐⭐⭐⭐       | 3400 XP     |
+| Git & GitHub           | ⭐⭐⭐⭐       | 3000 XP     |
+| SEO / Performance      | ⭐⭐⭐        | 2500 XP     |
+
+- **Desarrollo Frontend:** Especializado en la creación de interfaces web con **HTML5**, **CSS3**, **JavaScript** y **TypeScript**.
+- **React y Next.js:** Desarrollo de aplicaciones web dinámicas y SPA con **React** y **Next.js**.
+- **UI/UX Design:** Diseño de interfaces responsivas y centradas en el usuario con **Tailwind CSS** y **Bootstrap**.
+- **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
 
 ## 💡 **Misiones actuales**
 
@@ -91,4 +82,5 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
