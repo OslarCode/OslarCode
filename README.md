@@ -88,11 +88,18 @@
 | 🍃 **MongoDB** | `D` | ██░░░░░░░░ | 400 XP | CRUD de Prueba | 🥚 Iniciando |
 
 ### 📜 Leyenda de Rangos
+```
+SSS = Legendario (95-100%) | SS = Épico (85-94%) | S = Raro (75-84%)
+A = Superior (65-74%) | B = Competente (50-64%) | C = Aprendiz (30-49%) | D = Novato (0-29%)
+```
 
-- **Desarrollo Frontend:** Especializado en la creación de interfaces web con **HTML5**, **CSS3**, **JavaScript** y **TypeScript**.
-- **React y Next.js:** Desarrollo de aplicaciones web dinámicas y SPA con **React** y **Next.js**.
-- **UI/UX Design:** Diseño de interfaces responsivas y centradas en el usuario con **Tailwind CSS** y **Bootstrap**.
-- **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
+### 🏅 Estados
+- ✅ **Dominado**: Skill completamente masterizado
+- 🔄 **Mejorando**: En uso activo y perfeccionamiento
+- 📚 **Estudiando**: Aprendizaje teórico en progreso
+- 🌱 **Aprendiendo**: Primeros pasos y práctica
+- 🥚 **Iniciando**: Recién comenzado
+- ⏸️ **En Pausa**: No usado recientemente
 
 ## 💡 **Misiones actuales**
 
@@ -116,6 +123,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
