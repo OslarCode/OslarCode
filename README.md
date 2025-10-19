@@ -73,17 +73,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OslarCode/OslarCode/output/snake.svg">
 </picture>
 
-### Mapa de Batalla del Reino
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&custom_title=⚔️%20Batallas%20Libradas%20en%20el%20Reino%20Digital)](https://github.com/OslarCode)
-
-</div>
-
----
 </div>
 
 ### 📈 Contribuciones
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OslarCode&theme=redical&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ## 🧙‍♀️  **Habilidades**
 
@@ -123,6 +118,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
