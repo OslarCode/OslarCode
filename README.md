@@ -70,16 +70,24 @@
 
 </div>
 
-## 🧙‍♀️  **Habilidades**
+## 🎮 Mis habilidades como heroe
 
-| Habilidad               | Nivel       | Experiencia |
-|------------------------|-------------|-------------|
-| HTML/CSS               | ⭐⭐⭐⭐⭐      | 4200 XP     |
-| JavaScript/TypeScript  | ⭐⭐⭐⭐✰      | 3800 XP     |
-| React/Next.js          | ⭐⭐⭐⭐       | 3600 XP     |
-| UI/UX                  | ⭐⭐⭐⭐       | 3400 XP     |
-| Git & GitHub           | ⭐⭐⭐⭐       | 3000 XP     |
-| SEO / Performance      | ⭐⭐⭐        | 2500 XP     |
+| 🎯 Habilidad | 💪 Rango | 📊 Dominio | 💎 Experiencia | ⚔️ Última Batalla | 🏆 Estado |
+|:------------|:---------|:-----------|:---------------|:------------------|:----------|
+| 🎨 **HTML5/CSS3** | `SSS` | ██████████ | 4200 XP | Portfolio Oscuro 2024 | ✅ Dominado |
+| ⚡ **JavaScript** | `SS` | █████████░ | 3800 XP | Sistema de Autenticación | ✅ Dominado |
+| 🔷 **TypeScript** | `S` | ████████░░ | 3500 XP | Refactor de CRM | 🔄 Mejorando |
+| ⚛️ **React** | `S` | ████████░░ | 3600 XP | Dashboard Analytics | ✅ Dominado |
+| ▲ **Next.js** | `A` | ███████░░░ | 3200 XP | Blog SEO-Optimizado | 🔄 Mejorando |
+| 🎨 **Tailwind CSS** | `S` | █████████░ | 3400 XP | Landing Page Premium | ✅ Dominado |
+| 🅱️ **Bootstrap** | `A` | ███████░░░ | 2800 XP | Admin Template | ⏸️ En Pausa |
+| 🔀 **Git/GitHub** | `A` | ████████░░ | 3000 XP | Workflow de Equipos | ✅ Dominado |
+| 🚀 **SEO/Performance** | `B` | ██████░░░░ | 2500 XP | Optimización Lighthouse | 📚 Estudiando |
+| 🌐 **Web3/Blockchain** | `C` | ████░░░░░░ | 1200 XP | dApp Experimental | 🌱 Aprendiendo |
+| 🟢 **Node.js** | `C` | ███░░░░░░░ | 800 XP | API REST Básica | 🌱 Aprendiendo |
+| 🍃 **MongoDB** | `D` | ██░░░░░░░░ | 400 XP | CRUD de Prueba | 🥚 Iniciando |
+
+### 📜 Leyenda de Rangos
 
 - **Desarrollo Frontend:** Especializado en la creación de interfaces web con **HTML5**, **CSS3**, **JavaScript** y **TypeScript**.
 - **React y Next.js:** Desarrollo de aplicaciones web dinámicas y SPA con **React** y **Next.js**.
@@ -108,6 +116,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
