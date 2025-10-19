@@ -44,34 +44,6 @@
 
 </div>
 
-## 🌟 Skills con Poder Especial
-
-<div align="center">
-
-<!-- Badges con efecto de brillo (plastic style) -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-
-<!-- Badges con borde 3D (flat-square con logo grande) -->
-![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logoColor=black&labelColor=20232A)
-![Next.js](https://img.shields.io/badge/▲_Next.js-000000?style=for-the-badge&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS_TypeScript-3178C6?style=for-the-badge&logoColor=white)
-
-</div>
-
-## 📈 Estadísticas de Batalla en Tiempo Real
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=OslarCode&color=blueviolet&style=for-the-badge&label=VISITANTES+DEL+REINO)
-
-![Followers](https://img.shields.io/github/followers/OslarCode?style=for-the-badge&color=blue&label=ALIADOS)
-
-![Stars](https://img.shields.io/github/stars/OslarCode?style=for-the-badge&color=yellow&label=ESTRELLAS+GANADAS)
-
-</div>
-
 ## 📈 Estadísticas del Héroe
 
 <div align="center">
@@ -129,6 +101,7 @@
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
