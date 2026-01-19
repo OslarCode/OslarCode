@@ -16,6 +16,7 @@ Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de
 ## 🛡️ Tecnologías en mi inventario
 
 ### ⚔️ Armas de Combate Frontend
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -32,7 +33,7 @@ Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-
+</div>
 
 ### 🎨 Hechizos de Estilo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -134,6 +135,7 @@ A = Superior (65-74%) | B = Competente (50-64%) | C = Aprendiz (30-49%) | D = No
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
