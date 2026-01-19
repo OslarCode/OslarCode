@@ -77,10 +77,6 @@ Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de
 ### 🗡️ Armas Dominadas (Lenguajes)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OslarCode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
-### 🏆 Logros Desbloqueados
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OslarCode&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-
 ## 🐍 El Reino de las Contribuciones
 
 <picture>
@@ -145,6 +141,7 @@ A = Superior (65-74%) | B = Competente (50-64%) | C = Aprendiz (30-49%) | D = No
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
