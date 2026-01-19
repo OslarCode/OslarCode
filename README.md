@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/oscar-dev)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/oscardev)
 
-⚔️ Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de 5 años de sabiduría acumulada en las tierras digitales. Domino los antiguos lenguajes del frontend y las artes ocultas del backend, forjando puentes entre reinos de código y bases de datos. Maestro en la creación de interfaces mágicas y arquitecturas robustas, mi misión es invocar soluciones digitales completas que no solo cumplan los contratos del gremio, sino que también sorprendan al usuario con una experiencia legendaria digna de los héroes.
+Oscar, el Forjador de Soluciones, desarrollador Full Stack Freelance con más de 5 años de sabiduría acumulada en las tierras digitales. Domino los antiguos lenguajes del frontend y las artes ocultas del backend, forjando puentes entre reinos de código y bases de datos. Maestro en la creación de interfaces mágicas y arquitecturas robustas, mi misión es invocar soluciones digitales completas que no solo cumplan los contratos del gremio, sino que también sorprendan al usuario con una experiencia legendaria digna de los héroes.
 
 ```diff
 + Clase: Desarrollador Full Satck
@@ -123,6 +123,7 @@ A = Superior (65-74%) | B = Competente (50-64%) | C = Aprendiz (30-49%) | D = No
 ---
 
 🏰 ¡Gracias por visitar mi reino digital! Estoy siempre abierto a nuevas alianzas y aventuras freelance. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología. ¡Invócame si necesitas ayuda en tu proyecto!
+
 
 
 
